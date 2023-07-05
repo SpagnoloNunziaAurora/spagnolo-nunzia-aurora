@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="colazione.css">
+</head>
+<body>  
+     <nav>
+        <h4>food of the world</h4>
+    </nav>
+  <header>
+ 
+    <h1>Le colazioni dei vari continenti</h1>
+    <img class="imgmain" src="img./prima chef.png" alt="chef">
+  </header>  
+  <h2>Colazione del Continente Europeo</h2>
+  <section class="card">
+    <div>
+<img src="img./italia.webp" alt="italia">
+<h3>Italia</h3>
+<p>La più classica delle colazioni consiste in una bevanda calda - caffè, tè, oppure cappuccino - accompagnata da una brioche oppure dei biscotti. Esistono in realtà molte varianti: c'è chi preferisce, soprattutto i più piccoli, una tazza di latte tiepido, dove magari tuffare dei cereali, oppure chi mangia un tramezzino al posto del cornetto.</p>
+  </div>
+<div>
+    <img src="img./inghilterra.jpeg" alt="inghilterra">
+    <h3>Inghilterra</h3>
+    <p>Non è English Breakfast se nel piatto completo che costituisce la classica colazione inglese mancano fagioli, salsiccia, bacon (pancetta fritta), uova, funghi, hash browns (frittelle di patate) e pane tostato. Il tutto è accompagnato da una fumante tazza di tè, con l'aggiunta opzionale di black pudding, una specie di salsiccia fatta con sangue di maiale.</p>
+</div>
+<div>
+    <img src="img./francia.jpeg" alt="francia">
+    <h3>Francia</h3>
+    <p>In Francia la colazione si chiama petit déjeuner ed è simile alla nostra, con una bevanda (caffè, tè, cioccolata calda o succo di frutta) accompagnata da pane e burro, croissant o brioche alla confettura di vario tipo, anche se c’è chi preferisce qualcosa di più sostanzioso e azzarda un croque monsieur o un croque madame.</p>
+</div>
+<div>
+    <img src="img./islanda.jpeg" alt="islanda">
+    <h3>Islanda</h3>
+    <p>In Islanda per contrastare buio e freddo, niente è meglio di una colazione calda e abbondante. Porridge, Aringhe affumicate, aringhe in agrodolce, salumi, formaggi, pomodori, cetrioli, pani con semi, marmellate fatte in casa, yogurt, burro, malto. E a completare l’effetto ricostituente, una zuppa d’avena con a bagno corn flake.</p>
+</div>
+  </section>
+<h2>Colazioni del Continente Asiatico</h2>
+<section class="card">
+<div>
+    <img src="img./giappone.webp" alt="giappone">
+    <h3>Giappone</h3>
+    <p>Una scelta molto in voga per la colazione in Giappone è il tofu, magari accompagnato da riso e pesce, tra cui zuppa di miso, riso bianco al vapore, verdure sottaceto. Come spesso accade, essi vengono intinti nella salsa di soia e, come il resto del regime alimentare dei giapponesi, anche questo pasto risulta molto salutare.</p>
+</div>
+<div>
+    <img src="img./filippine.jpeg" alt="filippine">
+<h3>Filippine</h3>
+<p>La colazione filippina è sempre piena di energia e carboidrati, per dare energia per la giornata, è composta da tantissima frutta fresca locale, come il mango, a cui si aggiunge riso e una salsiccia locale chiamata longganisa che, saltati con aglio e sale, formano un piatto chiamato sinangag. Tutto ciò è combinato a uova, carne e fagioli.</p>
+</div>
+<div>
+    <img src="img./vietnam.webp" alt="vietnam">
+    <h3>Vietnam</h3>
+    <p>Vietnam. Una zuppa tipo Porridge inglese, non precisamente il mio piatto preferito, senza avena e mischiata con la carne degli ottimi maialini nani vietnamiti. Nel porridge: frattaglie di maiale (cuore, sangue e lembi di stomaco), germogli di fagioli e una macinata di pepe. Colazione più avventurosa di brioche e cappuccino, non c’è dubbio.</p>
+</div>
+<div>
+    <img src="img./india.jpeg" alt="india">
+    <h3>India</h3>
+    <p>Le colazioni in India sono spesso vegetariane si va dal tipico pane chapati, agli involtini di riso e cocco, dalle focaccine di farina e patate cotte al forno al puttu, un dolce a base di curry, cocco, riso basmati e banane  e tra i piatti tipici ,l’upma, una crema calda di grano e verdure in grado di fornire molto e fibre alimentari.</p>
+</div>
+</section>
+<h2>Colazioni del Continente Americano</h2>
+<section class="card">
+<div>
+    <img src="img./cuba.webp" alt="cuba">
+    <h3>Cuba</h3>
+    <p>La colazione cubana prevede un piatto di frutta tropicale, banane, papaya, ananas, guava, toast, uova fritte o strapazzate, succhi di frutta, caffè, latte, the, prosciutto e formaggio, anche  con caffè zuccherato, latte e un pizzico di sale. Il pane cubano è tostato, imburrato e tagliato a pezzi per essere bagnato nel caffè.</p>
+</div>
+<div>
+    <img src="img./hawaii.jpeg" alt="hawaii">
+    <h3>Hawaii</h3>
+    <p>Nient'altro che deliziosa frutta fresca per la colazione hawaiana, d'altra parte l'isola ne offre in gran quantità in ogni periodo dell'anno. Possono arricchire la colazione anche un paio di bagel. Non immaginavo che gli hawaiani mangiassero cose differenti dalla frutta, sinceramente. Viceversa c’è la ciambella.</p>
+</div>
+<div>
+    <img src="img./brasile.jpeg" alt="brasile">
+    <h3>Brasile</h3>
+    <p>açai bowl, bolo de fubà, pão de queijo, frutta tropicale. Profumi esotici, frutti dolci e succosi ma anche sapori più netti e decisi, come quello del formaggio a latte crudo, affettati e pane compongono la classica colazione salata brasiliana. La giornata in Brasile comincia con una tavola colorata e gustosa</p>
+</div>
+<div>
+    <img src="img./messico.jpeg" alt="messico">
+    <h3>Messico</h3>
+    <p>possiamo gustare tortillas con fagioli e carne o pollo tagliuzzati; la colazione messicana inizia in quarta all’insegna del piccante tra chilaquiles piccanti ricoperte da pomodoro, formaggio fuso e coriandolo e succulente punte di vitello. E poi gli immancabili Nachos, stuzzicanti triangolini di polenta fritta da immergere in salse piccanti.</p>
+</div>
+</section>
+<footer>
+    <p>ci sono tanti modi per godersi il primo pasto della giornata quanti diversi sono i modi di dire “buongiorno” nel mondo, e con questo approfondimento abbiamo indagato sulle principali abitudini della prima colazione nel mondo e sulle specialità internazionali che offrono un’opzione gastronomica per ogni palato.</p>
+</footer>
+</body>
+</html>

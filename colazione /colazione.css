@@ -1,0 +1,88 @@
+body{
+    background-color: azure;
+    margin: auto;
+    max-width: 95%;}
+
+nav{
+    background-color: rgb(46, 46, 159);
+    margin: 0;
+    padding: 0;
+    }
+
+h4{
+    color: aliceblue;
+    font-size: 50pt;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 200pt;
+    color: rgb(46, 46, 159);}
+
+.imgmain {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    padding: 400px;
+    align-items: center;}
+
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    align-items: center;
+    padding: 0px;
+    
+    border-color: black;
+    border-width: 10px;
+    border-style: solidf;    
+}
+    
+section.card img{
+    object-fit: cover;
+    width: 100%;
+    height: 2000px;
+    
+
+    border-color: black;
+    border-width: 10px;
+    border-style: solidf; 
+    }
+
+h2{
+    font-size: 150pt;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(46, 46, 159);
+    color: white;
+    border-radius: 100%;
+    padding: 300px;
+    margin-right:900px;
+    margin-left: 900px;
+    text-align: center;
+    }
+
+h3{
+    font-size: 75pt;
+    background-color: rgb(46, 46, 159);
+    color: white;
+    padding: 20px;
+    }
+
+p{
+   font-size: 50pt;
+    }
+
+footer {
+    color: white;
+    background-color:  rgb(46, 46, 159);
+    padding: 50px;
+    margin-top: 150px;
+}
